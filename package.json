@@ -1,0 +1,36 @@
+{
+  "name": "admin-one-bulma-dashboard",
+  "version": "1.2.0",
+  "description": "Admin One Bulma Admin Dashboard (HTML version)",
+  "keywords": [
+    "sass",
+    "bulma",
+    "css",
+    "start"
+  ],
+  "author": "Viktor Kuzhelnyi <viktor@justboil.me> (https://justboil.me)",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.4.7",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015-ie": "^6.7.0",
+    "buefy": "^0.8.4",
+    "bulma": "^0.7.2",
+    "node-sass": "^4.11.0",
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^6.1.1",
+    "@mdi/font": "^4.4.95",
+    "chart.js": "^2.8.0"
+  },
+  "scripts": {
+    "css-deploy": "npm run css-build && npm run css-postcss",
+    "css-build": "node-sass _sass/main.scss css/main.css",
+    "css-postcss": "postcss --use autoprefixer --output css/main.css css/main.css",
+    "css-watch": "npm run css-build -- --watch",
+    "deploy": "npm run css-deploy && npm run js-build",
+    "js-build": "babel _javascript --out-dir lib",
+    "js-watch": "npm run js-build -- --watch",
+    "start": "npm-run-all --parallel css-watch js-watch"
+  }
+}

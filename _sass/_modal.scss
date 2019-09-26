@@ -1,0 +1,14 @@
+.modal-card {
+  width: $modal-card-width;
+}
+
+.modal-card-foot {
+  background-color: $modal-card-foot-background-color;
+}
+
+@include mobile {
+  .modal .modal-card {
+    width: $modal-card-width-mobile;
+    margin: 0 auto;
+  }
+}

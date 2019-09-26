@@ -1,0 +1,59 @@
+.card:not(:last-child) {
+  margin-bottom: $default-padding;
+}
+
+.card {
+  border-radius: $radius-large;
+  border: $card-border;
+
+  &.has-table {
+
+    &.has-table-container-upper-radius {
+      .table-container {
+        border-top-left-radius: $radius-large;
+        border-top-right-radius: $radius-large;
+      }
+    }
+
+    .card-content {
+      padding: 0;
+
+      &+.notification {
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+        padding-left: $default-padding * .5;
+        padding-right: $default-padding * .5;
+      }
+    }
+  }
+
+  &.is-card-widget {
+    .card-content {
+      padding: $default-padding * .5;
+    }
+  }
+
+  .card-header {
+    border-bottom: 1px solid $base-color-light;
+  }
+
+  .card-content {
+    hr {
+      margin-left: $card-content-padding * -1;
+      margin-right: $card-content-padding * -1;
+    }
+  }
+
+  .is-widget-icon {
+    .icon {
+      width: 5rem;
+      height: 5rem;
+    }
+  }
+
+  .is-widget-label {
+    .subtitle {
+      color: $grey;
+    }
+  }
+}

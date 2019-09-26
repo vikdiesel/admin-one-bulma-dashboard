@@ -1,0 +1,9 @@
+.checkbox-cell {
+  width: 40px;
+  .checkbox {
+    vertical-align: middle;
+    .check {
+      transition: none;
+    }
+  }
+}
