@@ -1,0 +1,15 @@
+/* Bulma */
+@import "~bulma/bulma";
+
+/* Mdi font */
+// We'd just include cdn version
+//@import "../../node_modules/@mdi/font/scss/materialdesignicons";
+
+/* Styled Uploads, Checkboxes, Radios & Switches */
+@import "~buefy/src/scss/utils/variables";
+@import "~buefy/src/scss/utils/functions";
+@import "~buefy/src/scss/components/checkbox";
+@import "~buefy/src/scss/components/radio";
+@import "~buefy/src/scss/components/switch";
+@import "~buefy/src/scss/components/upload";
+@import "buefy-table-checkbox";

@@ -1,18 +1,20 @@
-# [Admin One Bulma Admin Dashboard](https://justboil.me/bulma-admin-template/one)
+# [Admin One — Bulma Admin Dashboard HTML/SCSS](https://justboil.me/bulma-admin-template/one)
 
-![version](https://img.shields.io/badge/version-1.2.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
+![version](https://img.shields.io/badge/version-1.2.1-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![Bulma Admin Dashboard](https://justboil.me/images/one/preview-free.jpg?v=1.2.0)
+[![Laravel Vue.js Bulma free admin dashboard](https://justboil.me/images/one/repository-preview-html-free.png)](https://justboil.me/bulma-admin-template/one)
 
-**Admin One Bulma Dashboard** is simple yet beautiful Bulma Admin Dashboard.
+**Admin One** is simple, beautiful and free Bulma admin dashboard (pure HTML version).
 
 * Free under MIT License
-* HTML + CSS/SCSS (without any js-framework dependencies)
-* Built with Bulma
+* Pure HTML & CSS/SCSS
+* Built with Bulma CSS Framework
+* No js framework dependencies
 * SCSS sources with variables
+* Preconfigured webpack
 * [Premium version](https://justboil.me/bulma-admin-template/one) available
 
-[JustBoil.me](https://justboil.me) is happy to share this dashboard with you. Feel free to give your feedback
+[JustBoil.me](https://justboil.me) is excited to share this dashboard with community.
 
 ## Table of Contents
 
@@ -28,17 +30,17 @@
 
 More info on free & premium versions of Admin One Dashboard: https://justboil.me/bulma-admin-template/one
 
-#### Bulma Admin Dashboard (HTML)
+### Vue.js Bulma Admin Dashboard (SPA)
 
-HTML + CSS/SCSS Bulma admin dashboard https://github.com/vikdiesel/admin-one-bulma-dashboard
+**Free & premium.** Vue.js 2.6 + Vue CLI 3.6 SPA Dashboard
 
-#### Laravel admin dashboard
+https://github.com/vikdiesel/admin-one-vue-bulma-dashboard
 
-Laravel version with fully-styled authentication scaffolding and resource CRUD samples (front-end & back-end) is available at https://github.com/vikdiesel/admin-one-laravel-dashboard 
+### Laravel Bulma Admin Dashboard (Vue.js SPA)
 
-#### Vue CLI admin dashboard
-
-VueCLI 3.6 version available at https://github.com/vikdiesel/admin-one-vue-bulma-dashboard
+**Free & premium.** Laravel version with fully-styled authentication scaffolding and resource CRUD samples (front-end & back-end) 
+ 
+https://github.com/vikdiesel/admin-one-laravel-dashboard 
 
 ## Description & Demo
 
@@ -50,23 +52,31 @@ VueCLI 3.6 version available at https://github.com/vikdiesel/admin-one-vue-bulma
 
 #### Get the repo
 
+#### Get the repo
+
 Do one of the following:
 
-* Clone this repo
-* Download as zip-archive from GitHub
-* Download from [JustBoil.me](https://justboil.me/bulma-admin-template/one)
+* Clone the repo
+* [Download .zip](https://github.com/vikdiesel/admin-vue-bulma-dashboard/archive/master.zip) from GitHub
 
 #### Install
 
 `cd` to project's dir and run `npm install` 
 
-#### Development
+#### Build
 
-To pre-compile for development run `npm run css-build` && `npm run js-build`
+`npm run dev` or `npm run prod`
 
-#### Production
+#### Webpack with laravel-mix (npm package)
 
-Production-ready and minifed bundle `npm run deploy`
+For your convenience, we use laravel-mix npm package *(frontend-only)*.
+
+Package provides a fluent API for defining Webpack build steps using several common CSS and JavaScript pre-processors. Through simple method chaining, you can fluently define your asset pipeline.
+
+* Asset pipeline is configured in `webpack.mix.js`
+* js and scss source files are located in `src` folder
+* html and built assets are located in `dist` folder
+* [laravel-mix docs](https://laravel.com/docs/7.x/mix)
 
 ## Browser Support
 
@@ -84,15 +94,15 @@ The issue list is reserved exclusively for bug reports and feature requests. Tha
 2. Provide steps to reproduce
 3. Provide an expected behavior
 4. Describe what is actually happening 
-5. Platfrom, Browser & version as some issues may be browser specific
+5. Platform, Browser & version as some issues may be browser specific
 
 ## Licensing
 
-- Copyright &copy; 2019 Viktor Kuzhelnyi (https://justboil.me)
+- Copyright &copy; 2019-2020 JustBoil.me (https://justboil.me)
 - Licensed under MIT
 
 ## Useful Links
 
 - [JustBoil.me](https://justboil.me)
-- [Affiliate Program](https://justboil.me/info/affiliates)
 - [Bulma](https://bulma.io)
+- [laravel-mix](https://laravel.com/docs/7.x/mix)
