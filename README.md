@@ -52,8 +52,6 @@ https://github.com/vikdiesel/admin-one-laravel-dashboard
 
 #### Get the repo
 
-#### Get the repo
-
 Do one of the following:
 
 * Clone the repo
