@@ -1,8 +1,8 @@
-# [Admin One — Bulma Admin Dashboard HTML/SCSS](https://justboil.me/bulma-admin-template/one)
+# [Admin One — Free Bulma Admin Dashboard HTML/SCSS](https://justboil.me/bulma-admin-template/one)
 
 ![version](https://img.shields.io/badge/version-1.2.1-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[![Laravel Vue.js Bulma free admin dashboard](https://justboil.me/images/one/repository-preview-html-free.png)](https://justboil.me/bulma-admin-template/one)
+[![Bulma free admin dashboard](https://justboil.me/images/one/repository-preview-html-free.png)](https://justboil.me/bulma-admin-template/one)
 
 **Admin One** is simple, beautiful and free Bulma admin dashboard (pure HTML version).
 
