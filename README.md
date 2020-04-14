@@ -2,7 +2,7 @@
 
 [![version](https://img.shields.io/badge/version-1.2.2-blue.svg)](https://justboil.me/bulma-admin-template/one)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/one)
 
-[![Bulma free admin dashboard](https://justboil.me/images/one/repository-preview-html-free.png)](https://vikdiesel.github.io/admin-one-bulma-dashboard/)
+[![Bulma free admin dashboard](https://justboil.me/images/one/repository-preview-html-hi-res.png)](https://vikdiesel.github.io/admin-one-bulma-dashboard/)
 
 **Admin One HTML** is simple, beautiful and free Bulma admin dashboard (pure HTML version).
 
