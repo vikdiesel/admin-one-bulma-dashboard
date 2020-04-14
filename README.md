@@ -2,7 +2,7 @@
 
 [![version](https://img.shields.io/badge/version-1.2.2-blue.svg)](https://justboil.me/bulma-admin-template/one)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/one)
 
-[![Bulma free admin dashboard](https://justboil.me/images/one/repository-preview-html-free.png)](https://justboil.me/bulma-admin-template/one)
+[![Bulma free admin dashboard](https://justboil.me/images/one/repository-preview-html-free.png)](https://vikdiesel.github.io/admin-one-bulma-dashboard/)
 
 **Admin One** is simple, beautiful and free Bulma admin dashboard (pure HTML version).
 
@@ -48,7 +48,7 @@ https://justboil.me/bulma-admin-template/one
 
 #### Free Dashboard Demo
 
-https://admin-one-html-free.justboil.me
+https://vikdiesel.github.io/admin-one-bulma-dashboard/
 
 #### Premium Dashboard Demo
 
@@ -58,6 +58,7 @@ https://admin-one-html.justboil.me
 
 #### Get the repo
 
+* [Create new repo](https://github.com/vikdiesel/admin-one-bulma-dashboard/generate) from this template
 * Clone the repo on GitHub
 * &hellip; or [download .zip](https://github.com/vikdiesel/admin-vue-bulma-dashboard/archive/master.zip) from GitHub
 
@@ -78,7 +79,7 @@ Package provides a fluent API for defining Webpack build steps using several com
 * Asset pipeline is configured in `webpack.mix.js`
 * js and scss source files are located in `src` folder
 * html and built assets are located in `dist` folder
-* [laravel-mix docs](https://laravel.com/docs/7.x/mix)
+* [laravel-mix docs](https://laravel.com/docs/7.x/mix) &mdash; front-end-only pipeline
 
 ## Browser Support
 
