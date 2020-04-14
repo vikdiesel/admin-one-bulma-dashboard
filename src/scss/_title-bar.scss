@@ -5,7 +5,7 @@ section.section.is-title-bar {
   ul {
     li {
       display: inline-block;
-      padding: 0 0 0 $default-padding * .5;
+      padding: 0 $default-padding * .5 0 0;
       font-size: $default-padding;
       color: $title-bar-color;
 
@@ -13,10 +13,6 @@ section.section.is-title-bar {
         display: inline-block;
         content: '/';
         padding-left: $default-padding * .5;
-      }
-
-      &:first-child {
-        padding-left: 0;
       }
 
       &:last-child {

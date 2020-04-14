@@ -1,6 +1,6 @@
 # [Admin One — Free Bulma Admin Dashboard HTML/SCSS](https://justboil.me/bulma-admin-template/one)
 
-![version](https://img.shields.io/badge/version-1.2.1-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
+[![version](https://img.shields.io/badge/version-1.2.2-blue.svg)](https://justboil.me/bulma-admin-template/one)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/one)
 
 [![Bulma free admin dashboard](https://justboil.me/images/one/repository-preview-html-free.png)](https://justboil.me/bulma-admin-template/one)
 
@@ -13,8 +13,6 @@
 * SCSS sources with variables
 * Preconfigured webpack
 * [Premium version](https://justboil.me/bulma-admin-template/one) available
-
-[JustBoil.me](https://justboil.me) is excited to share this dashboard with community.
 
 ## Table of Contents
 
@@ -44,18 +42,24 @@ https://github.com/vikdiesel/admin-one-laravel-dashboard
 
 ## Description & Demo
 
-* Description: https://justboil.me/bulma-admin-template/one
-* **Free Dashboard** Demo: https://admin-one-html-free.justboil.me
-* **Premium Dashboard** Demo: https://admin-one-html.justboil.me
+#### Description
+
+https://justboil.me/bulma-admin-template/one
+
+#### Free Dashboard Demo
+
+https://admin-one-html-free.justboil.me
+
+#### Premium Dashboard Demo
+
+https://admin-one-html.justboil.me
 
 ## Quick Start 
 
 #### Get the repo
 
-Do one of the following:
-
-* Clone the repo
-* [Download .zip](https://github.com/vikdiesel/admin-vue-bulma-dashboard/archive/master.zip) from GitHub
+* Clone the repo on GitHub
+* &hellip; or [download .zip](https://github.com/vikdiesel/admin-vue-bulma-dashboard/archive/master.zip) from GitHub
 
 #### Install
 
@@ -80,7 +84,7 @@ Package provides a fluent API for defining Webpack build steps using several com
 
 We try to make sure Dashboard works well in latest versions of all major browsers
 
-![Chrome](https://justboil.me/images/browsers/chrome.png) ![Firefox](https://justboil.me/images/browsers/firefox.png) ![Microsoft Edge](https://justboil.me/images/browsers/edge.png) ![Opera](https://justboil.me/images/browsers/opera.png) ![Safari](https://justboil.me/images/browsers/safari.png)
+<img src="https://justboil.me/images/browsers-svg/chrome.svg" width="64" height="64" alt="Chrome"> <img src="https://justboil.me/images/browsers-svg/firefox.svg" width="64" height="64" alt="Firefox"> <img src="https://justboil.me/images/browsers-svg/edge.svg" width="64" height="64" alt="Edge"> <img src="https://justboil.me/images/browsers-svg/safari.svg" width="64" height="64" alt="Safari"> <img src="https://justboil.me/images/browsers-svg/opera.svg" width="64" height="64" alt="Opera">
 
 ## Reporting Issues
 

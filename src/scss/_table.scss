@@ -90,7 +90,7 @@ table.table {
       padding: 0 $default-padding * .5;
     }
 
-    .table.has-mobile-cards {
+    .table-wrapper.has-mobile-cards {
       tr {
         box-shadow: 0 2px 3px rgba(10, 10, 10, 0.1);
         margin-bottom: 3px!important;
