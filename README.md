@@ -1,10 +1,10 @@
-# [Admin One — Free Bulma Admin Dashboard HTML/SCSS](https://justboil.me/bulma-admin-template/one)
+# [Admin One HTML — Free Bulma Admin Dashboard HTML/SCSS](https://justboil.me/bulma-admin-template/one)
 
 [![version](https://img.shields.io/badge/version-1.2.2-blue.svg)](https://justboil.me/bulma-admin-template/one)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/one)
 
 [![Bulma free admin dashboard](https://justboil.me/images/one/repository-preview-html-free.png)](https://vikdiesel.github.io/admin-one-bulma-dashboard/)
 
-**Admin One** is simple, beautiful and free Bulma admin dashboard (pure HTML version).
+**Admin One HTML** is simple, beautiful and free Bulma admin dashboard (pure HTML version).
 
 * Free under MIT License
 * Pure HTML & CSS/SCSS
