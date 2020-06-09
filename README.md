@@ -1,6 +1,6 @@
 # [Admin One HTML — Free Bulma Admin Dashboard HTML/SCSS](https://justboil.me/bulma-admin-template/one)
 
-[![version](https://img.shields.io/badge/version-1.2.2-blue.svg)](https://justboil.me/bulma-admin-template/one)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/one)
+[![version](https://img.shields.io/badge/version-1.3.0-blue.svg)](https://justboil.me/bulma-admin-template/one)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/one)
 
 [![Bulma free admin dashboard](https://justboil.me/images/one/repository-preview-html-hi-res.png)](https://vikdiesel.github.io/admin-one-bulma-dashboard/)
 
@@ -83,7 +83,7 @@ Package provides a fluent API for defining Webpack build steps using several com
 
 ## Browser Support
 
-We try to make sure Dashboard works well in latest versions of all major browsers
+We try to make sure Dashboard works well in the latest versions of all major browsers
 
 <img src="https://justboil.me/images/browsers-svg/chrome.svg" width="64" height="64" alt="Chrome"> <img src="https://justboil.me/images/browsers-svg/firefox.svg" width="64" height="64" alt="Firefox"> <img src="https://justboil.me/images/browsers-svg/edge.svg" width="64" height="64" alt="Edge"> <img src="https://justboil.me/images/browsers-svg/safari.svg" width="64" height="64" alt="Safari"> <img src="https://justboil.me/images/browsers-svg/opera.svg" width="64" height="64" alt="Opera">
 
