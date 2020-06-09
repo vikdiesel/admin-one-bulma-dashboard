@@ -18,7 +18,7 @@
     "bulma": "^0.9.0",
     "chart.js": "^2.9.3",
     "cross-env": "^7.0",
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^3.0.0",
     "laravel-mix": "^5.0.1",
     "resolve-url-loader": "^3.1.0",
     "sass": "^1.26.3",
