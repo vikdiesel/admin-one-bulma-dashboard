@@ -5,8 +5,23 @@ table.table {
     }
   }
 
+  td, th {
+    &.checkbox-cell {
+      .b-checkbox.checkbox:not(.button) {
+        margin-right: 0;
+        width: 20px;
+
+        .control-label {
+          display: none;
+          padding: 0;
+        }
+      }
+    }
+  }
+
   td {
     .image {
+      margin: 0 auto;
       width: $table-avatar-size;
       height: $table-avatar-size;
     }
@@ -14,14 +29,6 @@ table.table {
     &.is-progress-col {
       min-width: 5rem;
       vertical-align: middle;
-    }
-  }
-
-  tr {
-    td.is-image-cell:first-child {
-      .image {
-        margin: 0 auto;
-      }
     }
   }
 }

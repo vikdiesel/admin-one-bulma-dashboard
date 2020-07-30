@@ -29,6 +29,11 @@ nav.navbar {
       }
     }
 
+    &.has-control {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+
     .control {
       .input {
         color: $navbar-input-color;
@@ -54,6 +59,12 @@ nav.navbar {
 
       &.is-right {
         flex: none;
+      }
+    }
+
+    .navbar-item {
+      &.no-left-space-touch {
+        padding-left: 0;
       }
     }
 
