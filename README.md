@@ -28,7 +28,7 @@
 
 More info on free & premium versions of Admin One Dashboard: https://justboil.me/bulma-admin-template/one
 
-<table>
+<table style="width: 100%">
     <tr>
         <td><img src="https://justboil.me/svg/language-html5.svg" width="64" height="64"></td>
         <td><img src="https://justboil.me/svg/vuejs.svg" width="64" height="64"></td>
