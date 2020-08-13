@@ -1,18 +1,18 @@
-# [Admin One HTML — Free Bulma Admin Dashboard HTML/SCSS](https://justboil.me/bulma-admin-template/one)
+# [Admin One HTML &mdash; Free Bulma Admin Dashboard](https://justboil.me/bulma-admin-template/one-html)
 
-[![version](https://img.shields.io/badge/version-1.3.0-blue.svg)](https://justboil.me/bulma-admin-template/one)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/one)
+[![version](https://img.shields.io/github/v/release/vikdiesel/admin-one-bulma-dashboard)](https://justboil.me/bulma-admin-template/one-html)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/one-html)
 
-[![Bulma free admin dashboard](https://justboil.me/images/one/repository-preview-html-hi-res.png)](https://vikdiesel.github.io/admin-one-bulma-dashboard/)
+[![Free Bulma admin dashboard](https://justboil.me/images/one/repository-preview-html-hi-res.png)](https://vikdiesel.github.io/admin-one-bulma-dashboard/)
 
 **Admin One HTML** is simple, beautiful and free Bulma admin dashboard (pure HTML version).
 
 * Free under MIT License
-* Pure HTML & CSS/SCSS
 * Built with Bulma CSS Framework
+* Pure HTML & CSS/SCSS
 * No js framework dependencies
+* Ready-to-use CSS files
 * SCSS sources with variables
-* Preconfigured webpack
-* [Premium version](https://justboil.me/bulma-admin-template/one) available
+* [Premium version](https://justboil.me/bulma-admin-template/one-html) available
 
 ## Table of Contents
 
@@ -27,6 +27,15 @@
 ## Other versions
 
 More info on free & premium versions of Admin One Dashboard: https://justboil.me/bulma-admin-template/one
+
+<table>
+    <tr>
+        <td><img src="https://justboil.me/svg/language-html5.svg" width="64" height="64"></td>
+        <td><img src="https://justboil.me/svg/vuejs.svg" width="64" height="64"></td>
+        <td><img src="https://justboil.me/svg/nuxt.svg" width="64" height="64"></td>
+        <td><img src="https://justboil.me/svg/laravel.svg" width="64" height="64"></td>
+    </tr>
+</table>
 
 ### Vue.js Bulma Admin Dashboard (SPA)
 
@@ -44,7 +53,7 @@ https://github.com/vikdiesel/admin-one-laravel-dashboard
 
 #### Description
 
-https://justboil.me/bulma-admin-template/one
+https://justboil.me/bulma-admin-template/one-html
 
 #### Free Dashboard Demo
 
@@ -62,24 +71,19 @@ https://admin-one-html.justboil.me
 * Clone the repo on GitHub
 * &hellip; or [download .zip](https://github.com/vikdiesel/admin-vue-bulma-dashboard/archive/master.zip) from GitHub
 
-#### Install
+#### HTML & CSS
+
+Check `demo` directory
+
+#### npm tools
+
+##### Install
 
 `cd` to project's dir and run `npm install` 
 
-#### Build
+##### Build
 
-`npm run dev` or `npm run prod`
-
-#### Webpack with laravel-mix (npm package)
-
-For your convenience, we use laravel-mix npm package *(frontend-only)*.
-
-Package provides a fluent API for defining Webpack build steps using several common CSS and JavaScript pre-processors. Through simple method chaining, you can fluently define your asset pipeline.
-
-* Asset pipeline is configured in `webpack.mix.js`
-* js and scss source files are located in `src` folder
-* html and built assets are located in `dist` folder
-* [laravel-mix docs](https://laravel.com/docs/7.x/mix) &mdash; front-end-only pipeline
+`npm run build` to rebuild `demo` from sources in `src` directory
 
 ## Browser Support
 

@@ -1,3 +1,5 @@
+"use strict";
+
 var randomChartData = function randomChartData(n) {
   var data = [];
 
