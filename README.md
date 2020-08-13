@@ -28,9 +28,9 @@
 
 More info on free & premium versions of Admin One Dashboard: https://justboil.me/bulma-admin-template/one
 
-<table style="width: 100%">
+<table>
     <tr>
-        <td><img src="https://justboil.me/svg/language-html5.svg" width="64" height="64"></td>
+        <td><a href="https://github.com/vikdiesel/admin-one-bulma-dashboard"><img src="https://justboil.me/svg/language-html5.svg" width="64" height="64"></a></td>
         <td><img src="https://justboil.me/svg/vuejs.svg" width="64" height="64"></td>
         <td><img src="https://justboil.me/svg/nuxt.svg" width="64" height="64"></td>
         <td><img src="https://justboil.me/svg/laravel.svg" width="64" height="64"></td>
