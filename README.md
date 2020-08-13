@@ -28,7 +28,7 @@
 
 More info on free & premium versions of Admin One Dashboard: https://justboil.me/bulma-admin-template/one
 
-<table width="100%">
+<table>
     <tr>
         <td align="center"><a href="https://github.com/vikdiesel/admin-one-bulma-dashboard"><img src="https://justboil.me/svg/language-html5.svg" width="64" height="64"></a></td>
         <td align="center"><a href="https://github.com/vikdiesel/admin-one-bulma-dashboard"><img src="https://justboil.me/svg/vuejs.svg" width="64" height="64"></a></td>
@@ -42,18 +42,6 @@ More info on free & premium versions of Admin One Dashboard: https://justboil.me
         <td align="center">Bulma admin dashboard<br/>Laravel<br/><br/><a href="https://github.com/vikdiesel/admin-one-laravel-dashboard ">Free</a> | <a href="https://justboil.me/bulma-admin-template/one-laravel">Premium</a></td>
     </tr>
 </table>
-
-### Vue.js Bulma Admin Dashboard (SPA)
-
-**Free & premium.** Vue.js 2.6 + Vue CLI 3.6 SPA Dashboard
-
-https://github.com/vikdiesel/admin-one-vue-bulma-dashboard
-
-### Laravel Bulma Admin Dashboard (Vue.js SPA)
-
-**Free & premium.** Laravel version with fully-styled authentication scaffolding and resource CRUD samples (front-end & back-end) 
- 
-https://github.com/vikdiesel/admin-one-laravel-dashboard 
 
 ## Description & Demo
 
@@ -79,7 +67,7 @@ https://admin-one-html.justboil.me
 
 #### HTML & CSS
 
-Check `demo` directory
+Check `demo` directory.
 
 #### npm tools
 
@@ -118,4 +106,3 @@ The issue list is reserved exclusively for bug reports and feature requests. Tha
 
 - [JustBoil.me](https://justboil.me)
 - [Bulma](https://bulma.io)
-- [laravel-mix](https://laravel.com/docs/7.x/mix)
