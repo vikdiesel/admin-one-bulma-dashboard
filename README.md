@@ -26,6 +26,8 @@
 
 ## Other versions
 
+This is Bulma HTML/CSS/SCSS dashboard version.
+
 More info on free & premium versions of Admin One Dashboard: https://justboil.me/bulma-admin-template/one
 
 <table>
