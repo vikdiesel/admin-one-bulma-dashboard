@@ -7,7 +7,7 @@
     width: $icon-base-width;
 
     &.has-update-mark:after {
-      right: ($icon-base-width / 2) - .85;
+      right: ($icon-base-width * .5) - .85;
     }
   }
 }
