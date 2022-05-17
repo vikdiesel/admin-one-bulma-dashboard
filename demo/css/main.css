@@ -12684,7 +12684,7 @@ section.section.is-main-section {
 }
 
 @media screen and (max-width: 768px) {
-  .modal .animation-content .modal-card {
+  .modal .modal-card {
     width: 90vw;
     margin: 0 auto;
   }
