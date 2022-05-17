@@ -1,8 +1,8 @@
 {
   "name": "admin-one-bulma-dashboard",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "description": "Admin One Bulma Admin Dashboard (HTML version)",
-  "homepage": "https://justboil.me/bulma-admin-template/one-html",
+  "homepage": "https://justboil.me/bulma-admin-template/free-html-dashboard/",
   "keywords": [
     "sass",
     "bulma",
@@ -17,23 +17,24 @@
     "url": "https://github.com/vikdiesel/admin-one-bulma-dashboard.git"
   },
   "devDependencies": {
-    "@babel/core": "^7.11.1",
-    "@babel/preset-env": "^7.11.0",
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
     "@mdi/font": "^4.9.95",
     "bulma": "^0.9.0",
     "bulma-checkbox": "^1.1.1",
     "bulma-radio": "^1.1.1",
-    "bulma-responsive-tables": "^1.2.3",
+    "bulma-responsive-tables": "^1.2.5",
     "bulma-switch-control": "^1.1.1",
     "bulma-upload-control": "^1.2.0",
     "chart.js": "^2.9.3",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^4.0.0",
+    "glob-parent": "^6.0.2",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-rename": "^2.0.0",
-    "gulp-sass": "^4.1.0",
+    "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.2",
-    "node-sass": "^4.14.1"
+    "sass": "^1.51.0"
   },
   "scripts": {
     "build": "gulp",
