@@ -65,6 +65,9 @@ https://admin-one.justboil.me
 
 * [Create new repo](https://github.com/vikdiesel/admin-one-bulma-dashboard/generate) from this template
 * Clone the repo on GitHub
+  ```bash
+  $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+  ```
 * &hellip; or [download .zip](https://github.com/vikdiesel/admin-vue-bulma-dashboard/archive/master.zip) from GitHub
 
 #### HTML & CSS
